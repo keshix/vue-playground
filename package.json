@@ -5,7 +5,7 @@
   },
   "devDependencies": {
     "chalk": "^2.4.2",
-    "jest": "^24.8.0",
+    "jest": "^27.5.1",
     "prettier": "^1.18.2",
     "puppeteer": "^1.17.0",
     "rimraf": "^2.6.3"
